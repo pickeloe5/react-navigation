@@ -1,6 +1,6 @@
 /* eslint-disable import/no-commonjs */
 
-import pathToRegexp, { compile } from 'path-to-regexp';
+import { pathToRegexp, compile } from 'path-to-regexp';
 import * as NavigationActions from '../NavigationActions';
 import invariant from '../utils/invariant';
 
